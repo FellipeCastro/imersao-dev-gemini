@@ -15,21 +15,3 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade"
     }
 ];
-
-let filmes = [
-    {
-        titulo: "O Poderoso Chefão",
-        sinopse: "A saga da família Corleone, uma poderosa máfia italiana nos Estados Unidos.",
-        genero: "Crime"
-    },
-    {
-        titulo: "O Senhor dos Anéis: A Sociedade do Anel",
-        sinopse: "Um hobbit se une a um mago e dois elfos em uma jornada para destruir um poderoso anel.",
-        genero: "Fantasia"
-    },
-    {
-        titulo: "Pulp Fiction",
-        sinopse: "Histórias interligadas de criminosos e mafiosos em Los Angeles.",
-        genero: "Crime"
-    }
-];
